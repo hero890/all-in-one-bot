@@ -2,7 +2,7 @@
 SESSION = 'Media_search'
 USER_SESSION = '@forward_botss_bot'
 API_ID = '22672907'
-API_HASH = 'https://github.com/GamingBeast1/Anaya-bot-of-bh-botz.git'
+API_HASH = '0ff15ae2153bd8e03b48cb293010bc6a'
 BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
 USERBOT_STRING_SESSION = ''
 
